@@ -4,10 +4,10 @@ channels:
 dependencies:
 - python
 - numpy
-- dateutil
 - pip
 - pip:
 - nbgitpuller
 - pandas
 - plotly
+- python-dateutil
 
